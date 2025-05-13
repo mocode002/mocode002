@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed
 
-<!--
-**mocode002/mocode002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s student in Data Science & AI
+💡 Passionate about machine learning & software engineering  
+📫 Reach me at: [LinkedIn](www.linkedin.com/in/mohamed-bouroua)
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- 🌐 **Web Development**: HTML, CSS, JavaScript, TypeScript, Angular, GraphQl, RESTful APIs
+- 🧠 **Data Science & Machine Learning**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Power BI
+- 🚀 **Big Data & NoSQL**: PySpark, Apache Kafka, MongoDB, Cassandra
+- 💻 **Languages**: Python, Java, JavaScript/TypeScript, SQL
+- ⚙️ **Tools & Platforms**: Postman, Docker, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mocode002&show_icons=true&theme=radical)
