@@ -11,5 +11,7 @@
 - 💻 **Languages**: Python, Java, JavaScript/TypeScript, SQL
 - ⚙️ **Tools & Platforms**: Postman, Docker, AWS
 
+<!--
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mocode002&show_icons=true&theme=radical)
+-->
