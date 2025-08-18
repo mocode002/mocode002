@@ -8,14 +8,7 @@
 </h1>
 
 ---
-<!--
-## 🌟 About Me  
-- 🎓 Master’s Student in **Data Science & AI**  
-- 💡 Exploring **AI-powered applications, real-time data systems, and scalable software**  
-<!-- - 🌍 Based in **Casablanca, Morocco**  
 
----
--->
 ## 📫 Connect With Me  
 
 <p align="center">
@@ -45,22 +38,13 @@
   <img src="https://skillicons.dev/icons?i=java,git,docker,aws,postman" />
 </p>
 
-
-<!--
-## 📚 Currently Learning / Exploring  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kafka,fastapi,react,LLM" />
-</p>
- 
----
--->
 ## 📊 GitHub Streak  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mocode002&theme=radical" alt="GitHub Streak" />
+<!--   <img src="https://streak-stats.demolab.com?user=mocode002&theme=radical" alt="GitHub Streak" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mocode002&theme=radical" alt="GitHub Streak" />
+<!--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mocode002&theme=radical)](https://git.io/streak-stats) -->
 </p>
-
 
 
 <p align="center">
