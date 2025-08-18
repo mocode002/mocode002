@@ -58,7 +58,7 @@
 ## 📊 GitHub Streak  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mocode002&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mocode002&theme=radical" alt="GitHub Streak" />
 </p>
 
 
