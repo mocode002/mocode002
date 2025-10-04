@@ -41,9 +41,8 @@
 ## 📊 GitHub Streak  
 
 <p align="center">
-<!--   <img src="https://streak-stats.demolab.com?user=mocode002&theme=radical" alt="GitHub Streak" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mocode002&theme=radical" alt="GitHub Streak" />
-<!--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mocode002&theme=radical)](https://git.io/streak-stats) -->
+  <img src="https://streak-stats.demolab.com?user=mocode002&theme=radical" alt="GitHub Streak" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=mocode002&theme=radical" alt="GitHub Streak" /> -->
 </p>
 
 
