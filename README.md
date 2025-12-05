@@ -4,7 +4,7 @@
 
 <!-- Animated Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=4000&center=true&vCenter=true&width=1000&lines=Data+Science,+ML,+AI,+Software+Engineering;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=4000&center=true&vCenter=true&width=1000&lines=Data+Science,+ML,+AI,+Data+Engineering;" />
 </h1>
 
 ---
