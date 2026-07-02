@@ -1,55 +1,99 @@
-<!-- Header -->
-<h1 align="center">👋 Hey, I'm Mohamed</h1>
-<h3 align="center">🚀 Master’s Student in Data Science & AI</h3>
 
-<!-- Animated Intro -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=4000&center=true&vCenter=true&width=1000&lines=Data+Science,+ML,+AI,+Data+Engineering;" />
-</h1>
+<!-- 
+=========================================
+  DYNAMIC AI COMMAND CENTER THEME 
+=========================================
+-->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFCC&height=215&section=header&text=Mohamed%20Bouroua&fontSize=45&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Machine%20Learning&descAlignY=55&descAlign=50&animation=twinkling&fontColor=FFFFFF" alt="Header Banner" />
+</div>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=650&lines=>_Initializing_Agentic_Workflows...;>_Deploying_Local_LLMs_...;>_Orchestrating_Agentic_Systems...;>_Transforming_Data_into_Intelligence..." alt="Typing SVG" />
+</div>
 
-## 📫 Connect With Me  
+<div align="center" style="margin-top: 15px;">
+  <a href="https://linkedin.com/in/mohamed-bouroua"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mohamedbouroua002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <br><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mocode002&color=00FFCC&style=for-the-badge" alt="Visitors Badge" />
+</div>
 
-<p align="center">
-  <a href="mailto:mohamedbouroua002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<br>
+
+## ⚙️ Boot Sequence
+
+```console
+mohamed@ai-workspace:~$ whoami
+
+Name        : Mohamed Bouroua
+Role        : AI Engineer
+Location    : Casablanca, Morocco
+
+Education   : M.Sc. Data Science & AI
+
+Focus
+├── Agentic AI
+├── Multi-Agent Systems
+├── Retrieval-Augmented Generation
+├── LLM Evaluation
+├── AI Automation
+└── Data Science
+
+Current Mission
+Building production-ready AI systems that solve real business workflows.
+
+Status
+● Available for AI Engineering opportunities
+
+mohamed@ai-workspace:~$
+```
+
+<br>
+
+<h2 align="center">🧠 Tech Protocol</h2>
+
+<div align="center">
+  
+  ### Core Stack
+  
+  <!-- Skillicons provides a much cleaner, unified grid than standard badges -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,docker,git,aws,fastapi&theme=dark" alt="Core Tech Stack" />
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-bouroua">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <!-- Web -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,graphql" />
+</div>
+<br>
+<div align="center">
   
-  <!-- Data Science -->
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  ### AI & Data
   
-  <!-- Databases / Big Data -->
-  <img src="https://skillicons.dev/icons?i=mongodb,cassandra,mysql,postgres" />
-  
-  <!-- Languages & Tools -->
-  <img src="https://skillicons.dev/icons?i=java,git,docker,aws,postman" />
-</p>
+  <img height="28" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img height="28" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img height="28" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img height="28" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <br><br>
+  <img height="28" src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img height="28" src="https://img.shields.io/badge/LM_studio-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img height="28" src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img height="28" src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img height="28" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+</div>
 
-## 📊 GitHub Streak  
+<br>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mocode002&theme=radical" alt="GitHub Streak" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=mocode002&theme=radical" alt="GitHub Streak" /> -->
-</p>
+<h2 align="center">📊 System Telemetry</h2>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mocode002&theme=radical" width="48%" alt="Profile Details" />
+</div>
 
-<p align="center">
-  ✨ “Code, data, and endless curiosity.” ✨ 
-</p>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mocode002&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mocode002" alt="Visitors Badge" />
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=50&section=footer&text=Thanks+for+visiting+👋&fontSize=15&fontColor=FFFFFF&animation=twinkling" width="100%" alt="Footer Wave"/>
+</div>
